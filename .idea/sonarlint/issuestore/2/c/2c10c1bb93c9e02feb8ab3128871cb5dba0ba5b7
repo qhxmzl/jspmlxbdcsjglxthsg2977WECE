@@ -1,0 +1,36 @@
+
+cWeb:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(œ÷Ãûÿÿÿÿ
+Z	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷Ãûÿÿÿÿ
+HWeb:TableWithoutCaptionCheck" Add a description to this table.(âœÿÛ
+:	Web:S5256"%Add "<th>" headers to this "<table>".(âœÿÛ
+>	Web:S1827")Remove this deprecated "width" attribute.(âœÿÛ
+>	Web:S1827")Remove this deprecated "align" attribute.(âœÿÛ
+D	Web:S1827"/Remove this deprecated "cellpadding" attribute.(âœÿÛ
+D	Web:S1827"/Remove this deprecated "cellspacing" attribute.(âœÿÛ
+D	Web:S1827"/Remove this deprecated "bordercolor" attribute.(âœÿÛ
+>	Web:S1827")Remove this deprecated "width" attribute.(ÀËè
+?	Web:S1827"*Remove this deprecated "height" attribute.(ÀËè
+>	Web:S1827")Remove this deprecated "align" attribute.(ÀËè
+@	Web:S1827"+Remove this deprecated "bgcolor" attribute.(ÀËè
+@	Web:S1827"+Remove this deprecated "bgcolor" attribute.(—Øİ¶
+E	Web:S1827"+Remove this deprecated "bgcolor" attribute.(¥¥îüÿÿÿÿ
+E	Web:S1827"+Remove this deprecated "bgcolor" attribute.(Ÿêì™üÿÿÿÿ
+C	Web:S1827")Remove this deprecated "width" attribute.(Ÿêì™üÿÿÿÿ
+C	Web:S1827")Remove this deprecated "align" attribute.(Ÿêì™üÿÿÿÿ
+C	Web:S1827")Remove this deprecated "width" attribute.(¯ ‹¤şÿÿÿÿ
+D	Web:S1827"*Remove this deprecated "height" attribute.(¯ ‹¤şÿÿÿÿ
+C	Web:S1827")Remove this deprecated "align" attribute.(¯ ‹¤şÿÿÿÿ
+E	Web:S1827"+Remove this deprecated "bgcolor" attribute.(¯ ‹¤şÿÿÿÿ
+>	Web:S1827")Remove this deprecated "width" attribute.(Üşñã
+?	Web:S1827"*Remove this deprecated "height" attribute.(Üşñã
+>	Web:S1827")Remove this deprecated "align" attribute.(Üşñã
+@	Web:S1827"+Remove this deprecated "bgcolor" attribute.(Üşñã
+C	Web:S18276")Remove this deprecated "width" attribute.(¤àşÜıÿÿÿÿ
+C	Web:S18276")Remove this deprecated "align" attribute.(¤àşÜıÿÿÿÿ
+>	Web:S18279")Remove this deprecated "width" attribute.(ù­£ä
+>	Web:S18279")Remove this deprecated "align" attribute.(ù­£ä
+GWeb:ImgWithoutAltCheck9"%Add an "alt" attribute to this image.(ù­£ä
+C	Web:S1827<")Remove this deprecated "width" attribute.(ó±ÿ”ùÿÿÿÿ
+C	Web:S1827<")Remove this deprecated "align" attribute.(ó±ÿ”ùÿÿÿÿ
+>	Web:S1827=")Remove this deprecated "width" attribute.(Ì©ÜÚ
+>	Web:S1827=")Remove this deprecated "align" attribute.(Ì©ÜÚ

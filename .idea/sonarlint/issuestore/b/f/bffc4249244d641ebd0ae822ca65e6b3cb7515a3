@@ -1,0 +1,50 @@
+
+g
+java:S2095h"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(ô®¿»
+u
+java:S1149@"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÈéÌ’
+>
+java:S1185 "(Remove this method to simply inherit it.(‚“¶î
+P
+java:S1161 ":Add the "@Override" annotation above this method signature(‚“¶î
+U
+java:S1161/":Add the "@Override" annotation above this method signature(´È®‚ıÿÿÿÿ
+{
+java:S19890"`Handle the following exceptions that could be thrown by "doPost": ServletException, IOException.(ã÷éíùÿÿÿÿ
+U
+java:S1161=":Add the "@Override" annotation above this method signature(ÂÍ¡‘úÿÿÿÿ
+Y
+java:S4719D">Replace charset name argument with StandardCharsets.ISO_8859_1(Ñ‡Ã´øÿÿÿÿ
+M
+java:S1135F"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+G
+java:S2692J"10 is a valid index, but is ignored by this check.(ÊäÃ’
+T
+java:S4719L">Replace charset name argument with StandardCharsets.ISO_8859_1(ãÿâƒ
+O
+java:S4719L"9Replace charset name argument with StandardCharsets.UTF_8(ãÿâƒ
+M
+java:S1135N"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+L
+java:S2692S"10 is a valid index, but is ignored by this check.(Í“ÀÑøÿÿÿÿ
+M
+java:S1135W"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+Q	java:S125f"<This block of commented-out lines of code should be removed.(²Ö×Å
+D
+java:S1905h".Remove this unnecessary cast to "InputStream".(ô®¿»
+I
+java:S1874h"3Remove this use of "getRealPath"; it is deprecated.(ô®¿»
+P
+java:S2209u"5Change this instance-reference to a static reference.(¾™ğ¹ûÿÿÿÿ
+?
+java:S2440u"$Remove this instantiation of "Info".(¾™ğ¹ûÿÿÿÿ
+N
+java:S1874u"3Remove this use of "getRealPath"; it is deprecated.(¾™ğ¹ûÿÿÿÿ
+>	java:S108v")Either remove or fill this block of code.(”ı¾
+>	java:S108x")Either remove or fill this block of code.(Úîø›
+E
+java:S2093b"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(¡’…ùüÿÿÿÿ
+F
+java:S1128	"0Remove this unused import 'java.io.PrintWriter'.(ÓŞÏÛ

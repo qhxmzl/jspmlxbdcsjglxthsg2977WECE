@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jspmlxbdcsjglxthsg2977WECE:war">
+    <output-path>$PROJECT_DIR$/classes/artifacts/jspmlxbdcsjglxthsg2977WECE_war</output-path>
+    <root id="archive" name="jspmlxbdcsjglxthsg2977WECE_war.war">
+      <element id="artifact" artifact-name="jspmlxbdcsjglxthsg2977WECE:war exploded" />
+    </root>
+  </artifact>
+</component>

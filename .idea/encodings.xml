@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/WebRoot/image.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/images/hsgcommon2/样式/设置.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/images/layui/font/iconfont.eot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/images/layui/lay/modules/form.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/function.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/popup.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/popups.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/kindeditor_a5/lang/zh_CN.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/control/MainCtrl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/dao/CommDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/util/Info.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/util/PageManager.java" charset="GBK" />
+  </component>
+</project>

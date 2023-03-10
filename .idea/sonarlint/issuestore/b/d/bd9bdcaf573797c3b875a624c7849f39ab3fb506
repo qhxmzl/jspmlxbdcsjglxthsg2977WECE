@@ -1,0 +1,17 @@
+
+E
+java:S3740("/Provide the parametrized type for this generic.(³¨Ë‘
+[
+java:S1192"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(ç›Ï
+—
+java:S11868"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚“¶î
+V	java:S125"<This block of commented-out lines of code should be removed.(ß˜èùÿÿÿÿ
+O
+java:S4719."9Replace charset name argument with StandardCharsets.UTF_8(¡î³â
+Y
+java:S4719-">Replace charset name argument with StandardCharsets.ISO_8859_1(Ãñƒ™ùÿÿÿÿ
+P
+java:S11618":Add the "@Override" annotation above this method signature(‚“¶î
+s
+java:S2226
+"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ª»Úëþÿÿÿÿ

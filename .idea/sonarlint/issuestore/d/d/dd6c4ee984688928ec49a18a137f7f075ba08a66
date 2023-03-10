@@ -1,0 +1,43 @@
+
+D
+java:S3740'"/Provide the parametrized type for this generic.(—‘¨
+K
+java:S3740‘"/Provide the parametrized type for this generic.(„²á½ÿÿÿÿÿ
+K
+java:S3740•"/Provide the parametrized type for this generic.(Ý¨ÖÓýÿÿÿÿ
+F
+java:S3740€"/Provide the parametrized type for this generic.(õž¼ë
+F
+java:S3740˜"/Provide the parametrized type for this generic.(þ€ Å
+K
+java:S3740Ÿ"/Provide the parametrized type for this generic.(¯Å’Ìûÿÿÿÿ
+a
+java:S1192­"JDefine a constant instead of duplicating this literal "<a href='" 4 times.(°Ý…ª
+p
+java:S1192©"YDefine a constant instead of duplicating this literal "&nbsp;&nbsp;&nbsp;&nbsp;" 3 times.(Ç˜ÓÓ
+j
+java:S1192¯"NDefine a constant instead of duplicating this literal "' class='ls'>" 4 times.(“€íÀÿÿÿÿÿ
+i
+java:S1192¦"MDefine a constant instead of duplicating this literal "&nbsp;&nbsp;" 3 times.(Öœ¨šÿÿÿÿÿ
+g
+java:S1192N"LDefine a constant instead of duplicating this literal "currentPage" 4 times.(ÜÓ°øÿÿÿÿ
+d
+java:S1192µ"NDefine a constant instead of duplicating this literal "&currentPage=" 3 times.(‡°þ1
+‡
+java:S1319˜"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(þ€ Å
+y
+java:S1488Ÿ"]Immediately return this expression instead of assigning it to the temporary variable "nlist".(¯Å’Ìûÿÿÿÿ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ª©¯ç
+v
+java:S1149“"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ë¬àõ
+{
+java:S1149£"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+T
+java:S1155”">Use isEmpty() to check whether the collection is empty or not.(Íþ´W
+^
+java:S1854¿"BRemove this useless assignment to local variable "currentSegment".(«Þ²¾ýÿÿÿÿ
+O
+java:S1481¿"3Remove this unused "currentSegment" local variable.(«Þ²¾ýÿÿÿÿ
+W	java:S125Â"<This block of commented-out lines of code should be removed.(ÁºËúÿÿÿÿ
+W	java:S125â"<This block of commented-out lines of code should be removed.(àëîùÿÿÿÿ
+W	java:S125í"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ

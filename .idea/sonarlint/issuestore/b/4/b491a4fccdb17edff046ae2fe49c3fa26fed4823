@@ -1,0 +1,310 @@
+
+J
+java:S3740+"/Provide the parametrized type for this generic.(Â³ºğúÿÿÿÿ
+E
+java:S3740-"/Provide the parametrized type for this generic.(Ì›¢ã
+J
+java:S3740L"/Provide the parametrized type for this generic.(÷¼ŞÇıÿÿÿÿ
+J
+java:S3740Y"/Provide the parametrized type for this generic.(÷¼ŞÇıÿÿÿÿ
+E
+java:S3740f"/Provide the parametrized type for this generic.(éƒŸÅ
+F
+java:S3740…"/Provide the parametrized type for this generic.(éƒŸÅ
+K
+java:S3740™"/Provide the parametrized type for this generic.(ÑÂ”õøÿÿÿÿ
+K
+java:S3740¢"/Provide the parametrized type for this generic.(©«Èêûÿÿÿÿ
+K
+java:S3740Ë"/Provide the parametrized type for this generic.(¶™¯˜øÿÿÿÿ
+K
+java:S3740Î"/Provide the parametrized type for this generic.(Á®¢¸úÿÿÿÿ
+F
+java:S3740ü"/Provide the parametrized type for this generic.(éƒŸÅ
+F
+java:S3740‘"/Provide the parametrized type for this generic.(éƒŸÅ
+F
+java:S3740®"/Provide the parametrized type for this generic.(éƒŸÅ
+K
+java:S3740Å"/Provide the parametrized type for this generic.(±˜›·üÿÿÿÿ
+K
+java:S3740Í"/Provide the parametrized type for this generic.(ûƒùÿÿÿÿÿÿ
+F
+java:S3740Î"/Provide the parametrized type for this generic.(ø†—‚
+m
+java:S1192L"RDefine a constant instead of duplicating this literal " order by id desc" 7 times.(÷¼ŞÇıÿÿÿÿ
+g
+java:S1192M"QDefine a constant instead of duplicating this literal "<option value=\"" 3 times.(Éûùü
+j
+java:S1192L"ODefine a constant instead of duplicating this literal "select * from " 7 times.(÷¼ŞÇıÿÿÿÿ
+g
+java:S1192É"KDefine a constant instead of duplicating this literal "ISO-8859-1" 3 times.(²á®²ùÿÿÿÿ
+`
+java:S1192M"JDefine a constant instead of duplicating this literal "</option>" 3 times.(Éûùü
+_
+java:S1192O"JDefine a constant instead of duplicating this literal "</select>" 3 times.(…¬ª(
+\
+java:S1192‹"EDefine a constant instead of duplicating this literal "\";
+" 7 times.(á“¼¶
+
+java:S1192ì"€Define a constant instead of duplicating this literal "<script type=\"text/javascript\"  src=\"js/popup.js\"></script>" 4 times.(û›ƒÑúÿÿÿÿ
+k
+java:S1192K"PDefine a constant instead of duplicating this literal "<select name=\"" 3 times.(Ù–·çşÿÿÿÿ
+^
+java:S1192f"HDefine a constant instead of duplicating this literal " where " 4 times.(éƒŸÅ
+d
+java:S1192K"IDefine a constant instead of duplicating this literal "\" id=\"" 3 times.(Ù–·çşÿÿÿÿ
+K
+java:S1066"/Merge this if statement with the enclosing one.(šË²ÿÿÿÿÿ
+ˆ
+java:S1319+"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(Â³ºğúÿÿÿÿ
+|
+java:S1319Å"`The type of "map" should be an interface such as "Map" rather than the implementation "HashMap".(±˜›·üÿÿÿÿ
+l	java:S117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³óƒ„şÿÿÿÿ
+l	java:S117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù©ï·şÿÿÿÿ
+l	java:S117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù©ï·şÿÿÿÿ
+l	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ‡öÙùÿÿÿÿ
+l	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ‡öÙùÿÿÿÿ
+2
+java:S1643M"Use a StringBuilder instead.(Éûùü
+2
+java:S1643Z"Use a StringBuilder instead.(Éûùü
+2
+java:S1643s"Use a StringBuilder instead.(‘£Ä
+7
+java:S1643z"Use a StringBuilder instead.(ˆ™¥şÿÿÿÿ
+3
+java:S1643"Use a StringBuilder instead.(‘£Ä
+3
+java:S1643’"Use a StringBuilder instead.(ÿòì
+8
+java:S1643"Use a StringBuilder instead.(‹²·Œúÿÿÿÿ
+3
+java:S1643ƒ"Use a StringBuilder instead.(‘£Ä
+8
+java:S1643‡"Use a StringBuilder instead.(úé¶‰üÿÿÿÿ
+3
+java:S1643™"Use a StringBuilder instead.(‘£Ä
+3
+java:S1643›"Use a StringBuilder instead.(êÅıÅ
+3
+java:S1643 "Use a StringBuilder instead.(ìÒ²
+3
+java:S1643µ"Use a StringBuilder instead.(‘£Ä
+8
+java:S1643º"Use a StringBuilder instead.(µÎ¸ßşÿÿÿÿ
+8
+java:S1643»"Use a StringBuilder instead.(½ø·øÿÿÿÿ
+3
+java:S1643İ"Use a StringBuilder instead.(–¼±ß
+8
+java:S1643Ş"Use a StringBuilder instead.(¹º×›øÿÿÿÿ
+3
+java:S1643ß"Use a StringBuilder instead.(Á×æó
+8
+java:S1643á"Use a StringBuilder instead.(³ÓøÆùÿÿÿÿ
+8
+java:S1643â"Use a StringBuilder instead.(“Ô°Ûøÿÿÿÿ
+8
+java:S1643ã"Use a StringBuilder instead.(¹º×›øÿÿÿÿ
+3
+java:S1643ä"Use a StringBuilder instead.(ŸñÏ
+8
+java:S1643å"Use a StringBuilder instead.(¹º×›øÿÿÿÿ
+8
+java:S1643æ"Use a StringBuilder instead.(øÀóîşÿÿÿÿ
+8
+java:S1643ç"Use a StringBuilder instead.(ïÀ¥øÿÿÿÿ
+8
+java:S1643è"Use a StringBuilder instead.(ïÀ¥øÿÿÿÿ
+8
+java:S1643é"Use a StringBuilder instead.(ïÀ¥øÿÿÿÿ
+8
+java:S1643ì"Use a StringBuilder instead.(§é„Œûÿÿÿÿ
+8
+java:S1643ğ"Use a StringBuilder instead.(“Ô°Ûøÿÿÿÿ
+8
+java:S1643ñ"Use a StringBuilder instead.(¹º×›øÿÿÿÿ
+3
+java:S1643ò"Use a StringBuilder instead.(øÎ¾Ÿ
+8
+java:S1643ó"Use a StringBuilder instead.(¹º×›øÿÿÿÿ
+8
+java:S1643õ"Use a StringBuilder instead.(øÀóîşÿÿÿÿ
+3
+java:S1643ü"Use a StringBuilder instead.(üûš«
+8
+java:S1643ı"Use a StringBuilder instead.(¹º×›øÿÿÿÿ
+3
+java:S1643ş"Use a StringBuilder instead.(É´†ü
+8
+java:S1643ÿ"Use a StringBuilder instead.(ïÀ¥øÿÿÿÿ
+8
+java:S1643†"Use a StringBuilder instead.(ïÀ¥øÿÿÿÿ
+8
+java:S1643‡"Use a StringBuilder instead.(ïÀ¥øÿÿÿÿ
+8
+java:S1643ˆ"Use a StringBuilder instead.(ïÀ¥øÿÿÿÿ
+8
+java:S1643Š"Use a StringBuilder instead.(ÙòôÙúÿÿÿÿ
+3
+java:S1643‹"Use a StringBuilder instead.(á“¼¶
+8
+java:S1643Œ"Use a StringBuilder instead.(ïÀ¥øÿÿÿÿ
+8
+java:S1643"Use a StringBuilder instead.(³ñûÒıÿÿÿÿ
+8
+java:S1643"Use a StringBuilder instead.(Øã¯Ôúÿÿÿÿ
+8
+java:S1643‘"Use a StringBuilder instead.(¹º×›øÿÿÿÿ
+3
+java:S1643’"Use a StringBuilder instead.(á“¼¶
+8
+java:S1643“"Use a StringBuilder instead.(ïÀ¥øÿÿÿÿ
+8
+java:S1643”"Use a StringBuilder instead.(ïÀ¥øÿÿÿÿ
+8
+java:S1643—"Use a StringBuilder instead.(ŸÛéşÿÿÿÿ
+8
+java:S1643˜"Use a StringBuilder instead.(¹º×›øÿÿÿÿ
+8
+java:S1643™"Use a StringBuilder instead.(…çÂãùÿÿÿÿ
+8
+java:S1643š"Use a StringBuilder instead.(ïÀ¥øÿÿÿÿ
+3
+java:S1643œ"Use a StringBuilder instead.(¾ÑÃ
+8
+java:S1643"Use a StringBuilder instead.(¹º×›øÿÿÿÿ
+8
+java:S1643"Use a StringBuilder instead.(èá¡âúÿÿÿÿ
+8
+java:S1643Ÿ"Use a StringBuilder instead.(ïÀ¥øÿÿÿÿ
+3
+java:S1643¡"Use a StringBuilder instead.(öÄ
+8
+java:S1643¢"Use a StringBuilder instead.(¹º×›øÿÿÿÿ
+8
+java:S1643£"Use a StringBuilder instead.(Óá‹Ãúÿÿÿÿ
+8
+java:S1643¤"Use a StringBuilder instead.(ïÀ¥øÿÿÿÿ
+2
+java:S1643¦"Use a StringBuilder instead.(šã†<
+8
+java:S1643§"Use a StringBuilder instead.(¹º×›øÿÿÿÿ
+8
+java:S1643¨"Use a StringBuilder instead.(°êşúÿÿÿÿ
+8
+java:S1643©"Use a StringBuilder instead.(ïÀ¥øÿÿÿÿ
+8
+java:S1643«"Use a StringBuilder instead.(²€¾•ùÿÿÿÿ
+8
+java:S1643¬"Use a StringBuilder instead.(¹º×›øÿÿÿÿ
+8
+java:S1643­"Use a StringBuilder instead.(ä¹Ğëûÿÿÿÿ
+8
+java:S1643®"Use a StringBuilder instead.(ïÀ¥øÿÿÿÿ
+3
+java:S1643û"Use a StringBuilder instead.(Ÿëˆ¦
+q
+java:S1488-"[Immediately return this expression instead of assigning it to the temporary variable "map".(Ì›¢ã
+k
+java:S1104("UMake popheight a static final constant or non-public and provide accessors if needed.(Àß·
+E
+java:S1444("/Make this "public static popheight" field final(Àß·
+`
+java:S2583ß"DChange this condition so that it does not always evaluate to "false"(ò–şÚÿÿÿÿÿ
+v
+java:S1149Í"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(å’÷Ã
+V	java:S125'"<This block of commented-out lines of code should be removed.(µ¼Ùóşÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(èÅüüÿÿÿÿ
+n
+java:S3776™"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÑÂ”õøÿÿÿÿ
+H
+java:S1172™",Remove this unused method parameter "plist".(ÑÂ”õøÿÿÿÿ
+O
+java:S1874¤"3Remove this use of "getRealPath"; it is deprecated.(•±ıÿÿÿÿ
+\
+java:S2147Å"ECombine this catch with the one at line 194, which has the same body.(Âáô‡
+N
+java:S1135Ã"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N
+java:S1135Æ"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+\
+java:S2147Ş"ECombine this catch with the one at line 219, which has the same body.(Âáô‡
+N
+java:S1135Ü"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N
+java:S1135ß"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+\
+java:S2147ë"ECombine this catch with the one at line 233, which has the same body.(”ı¾
+E
+java:S1905Ñ")Remove this unnecessary cast to "Object".(¨‘™úÿÿÿÿ
+d
+java:S5361Ø"HReplace this call to "replaceAll()" by a call to the "replace()" method.(‚–ßŒıÿÿÿÿ
+Q	java:S125Ù"<This block of commented-out lines of code should be removed.(»«¸=
+a
+java:S1124Ê"EReorder the modifiers to comply with the Java Language Specification.(ÔßüÚøÿÿÿÿ
+4
+java:S2119Ì"Save and re-use this "Random".(¼İÅf
+;
+java:S2676Ñ"Use the original value instead.(İåÉÒşÿÿÿÿ
+W	java:S125Ò"<This block of commented-out lines of code should be removed.(à’—­úÿÿÿÿ
+\
+java:S1124Ÿ"EReorder the modifiers to comply with the Java Language Specification.(ÆÕÑü
+\
+java:S1124©"EReorder the modifiers to comply with the Java Language Specification.(“øÙò
+?	java:S108º")Either remove or fill this block of code.(”ı¾
+U
+java:S4719É"9Replace charset name argument with StandardCharsets.UTF_8(²á®²ùÿÿÿÿ
+Z
+java:S4719É">Replace charset name argument with StandardCharsets.ISO_8859_1(²á®²ùÿÿÿÿ
+N
+java:S1135Ë"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+U
+java:S4719Ö">Replace charset name argument with StandardCharsets.ISO_8859_1(´ç·¥
+P
+java:S4719İ"9Replace charset name argument with StandardCharsets.UTF_8(«²ìƒ
+U
+java:S4719İ">Replace charset name argument with StandardCharsets.ISO_8859_1(«²ìƒ
+B
+java:S1481í"&Remove this unused "a" local variable.(¥Ÿëşÿÿÿÿ
+H
+java:S1874ğ",Remove this use of "Date"; it is deprecated.(ºéÉùÿÿÿÿ
+V
+java:S3252ñ"?Use static access with "java.util.Calendar" for "DAY_OF_MONTH".(±±à¨
+F
+java:S1197ó"*Move the array designators [] to the type.(ÊÖùÿÿÿÿ
+i	java:S100Á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ‡öÙùÿÿÿÿ
+T
+java:S1854Ü"8Remove this useless assignment to local variable "sub1".(°üäÆûÿÿÿÿ
+T
+java:S1854Ü"8Remove this useless assignment to local variable "sub2".(°üäÆûÿÿÿÿ
+[
+java:S1854Ü"?Remove this useless assignment to local variable "subLowcase1".(°üäÆûÿÿÿÿ
+[
+java:S1854Ü"?Remove this useless assignment to local variable "subLowcase2".(°üäÆûÿÿÿÿ
+]
+java:S1659Û"ADeclare "sub2" and all following declarations on a separate line.(îõ‡Êúÿÿÿÿ
+=
+java:S1659İ"!Declare "end" on a separate line.(—…›úÿÿÿÿÿ
+R	java:S125÷"<This block of commented-out lines of code should be removed.(­ç†Œ
+B
+java:S1075ƒ"&Remove this hard-coded path-delimiter.(ôÑ¤üÿÿÿÿ
+P	java:S899†";Do something with the "boolean" value returned by "delete".(±Ü‹
+d
+java:S4042†"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(±Ü‹
+S
+java:S1128"8Remove this unused import 'java.io.BufferedInputStream'.(Š—€åûÿÿÿÿ
+T
+java:S1128"9Remove this unused import 'java.io.BufferedOutputStream'.(«èÍôıÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ
+F
+java:S1128	"0Remove this unused import 'java.io.InputStream'.(¹»º
+L
+java:S1128
+"1Remove this unused import 'java.io.OutputStream'.(Ó ³ÿÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.net.URLEncoder'.(ê¢ºÆ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
